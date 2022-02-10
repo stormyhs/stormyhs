@@ -7,4 +7,4 @@
 </p>
 
 ## 💬 shitpost with me 😏
-discord: stormy#3999
+### discord: stormy#3999
