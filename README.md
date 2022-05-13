@@ -6,3 +6,5 @@
 
 ## 💬 shitpost with me 😏
 ### discord: stormy#3999
+
+stormbot is closed source yet again, temporarily. dont worry about it.
