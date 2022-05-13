@@ -7,4 +7,5 @@
 ## 💬 shitpost with me 😏
 ### discord: stormy#3999
 
-stormbot is closed source yet again, temporarily. dont worry about it.
+## where is stormbot?
+### although its my best project, i decided to temporarily close-source it. im working on a new project, and dont have the time to keep maintaining stormbot at the moment, aside from bugs. it will be back.
