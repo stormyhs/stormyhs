@@ -4,6 +4,6 @@
   <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stormyhs&layout=compact&theme=blue-green">
 </p>
 
-## 💬 shitpost with me 😏
+## 💬 hmu
 ### discord: stormy#3999
 
