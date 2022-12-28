@@ -1,10 +1,10 @@
 # :wave: Yo, I'm stormy
 
-<!-- <img align="right" width="450" height="525" alt="Shimarin" src="https://media.discordapp.net/attachments/790671486976655390/1057205312140099626/index.gif"/> -->
+<img align="right" width="450" height="525" alt="Shimarin" src="https://media.discordapp.net/attachments/790671486976655390/1057205312140099626/index.gif"/>
 
 ### Full-Stack developer that just likes building cool stuff
 
-<img src="https://github-readme-stats.vercel.app/api?username=stormyhs&show_icons=true&theme=transparent"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=stormyhs&show_icons=true&theme=transparent"/> -->
 
 ### ☕ About me
 
