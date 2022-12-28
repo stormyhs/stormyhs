@@ -37,8 +37,8 @@
 </p>
 
 ### Socials
-<p><a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-stormy%233999-%23ffffff?style=for-the-badge"/></a> </p>
-<p><a href="https://twitter.com/stormyhs" target="_blank"><img src="https://img.shields.io/badge/Twitter-@stormyhs-%23ffffff?style=for-the-badge"/></a></p>
+<p><a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-stormy%233999-%23ffffff?style=for-the-badge&logo=discord"/></a> </p>
+<p><a href="https://twitter.com/stormyhs" target="_blank"><img src="https://img.shields.io/badge/Twitter-@stormyhs-%23ffffff?style=for-the-badge&logo=twitter"/></a></p>
 
 ### Statistical drip
 
