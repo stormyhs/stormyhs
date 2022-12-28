@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/React%20-teal.svg?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/EXPRESS.JS%20-orange.svg?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <br/>
+<!--   <br/> -->
   <img src="https://img.shields.io/badge/CSS%20-blue.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/tailwind%20-teal.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
