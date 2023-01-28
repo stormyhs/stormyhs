@@ -11,7 +11,7 @@
 - <h4> 📚 Currently studying Computer Science. </h4>
 - <h4> 🖥️ Focusing on web development. </h4>
 - <h4> 🐍 Python was my first love. </h4>
-- <h4> ⭐ ReactJS is the best! </h4>
+- <h4> ⭐ React is the best! </h4>
 - <h4> 🤝 Invite me to projects, I'M BORED!!!</h4>
 
 ### 💻 Software
