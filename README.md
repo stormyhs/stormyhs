@@ -10,34 +10,9 @@
 
 - <h4> 📚 Currently studying Computer Science. </h4>
 - <h4> 🖥️ Focusing on web development. </h4>
-- <h4> 🐍 Python was my first love. </h4>
-- <h4> ⭐ React is the best! </h4>
-- <h4> 🤝 Invite me to projects, I'M BORED!!!</h4>
+- <h4> 😊 God's silliest programmer. </h4>
 
 ### 💻 Software
-
-<!-- <p>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <br/>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
- <br/>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <br/>
-</p> -->
 
 <h4> Development </h4>
 <p>
@@ -72,8 +47,7 @@
 </p>
 
 ### 💬 Socials
-<p><a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-stormy%233999-%23ffffff?style=for-the-badge&logo=discord"/></a> </p>
-<p><a href="https://twitter.com/stormyhs" target="_blank"><img src="https://img.shields.io/badge/Twitter-@stormyhs-%23ffffff?style=for-the-badge&logo=twitter"/></a></p>
+<p><a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-stormyhs-%23ffffff?style=for-the-badge&logo=discord"/></a></p>
 
 <!-- ### 📈 Statistical drip -->
 
