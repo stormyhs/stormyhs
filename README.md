@@ -8,8 +8,8 @@
 
 ### ☕ About me
 
+- <h4> 🖥️ Actively a full-stack developer. </h4>
 - <h4> 📚 Currently studying Computer Science. </h4>
-- <h4> 🖥️ Focusing on web development. </h4>
 - <h4> 😊 God's silliest programmer. </h4>
 
 ### 💻 Software
