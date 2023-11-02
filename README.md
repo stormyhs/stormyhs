@@ -16,6 +16,8 @@
 
 <h4> Development </h4>
 <p>
+  <img src="https://img.shields.io/badge/Go-orange?style=for-the-badge&logo=go">
+  <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust">
   <img src="https://img.shields.io/badge/PYTHON%20-blue.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JAVASCRIPT%20-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/typescript%20-blue.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
