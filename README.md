@@ -1,19 +1,9 @@
-# :wave: Yo, I'm stormy
+<h1 align="center">👋 Hi, I'm stormy~!</h1>
 
-<!-- <img align="right" width="450" height="525" alt="Shimarin" src="https://media.discordapp.net/attachments/790671486976655390/1057205312140099626/index.gif"/> -->
+<p align="center">☕ Just a silly little guy, typing on my silly little keyboard. </p>
 
-### Full-Stack developer that just likes building cool stuff
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=stormyhs&show_icons=true&theme=transparent"/> -->
-
-### ☕ About me
-
-- <h4> 🖥️ Actively a full-stack developer. </h4>
-- <h4> 📚 Currently studying Computer Science. </h4>
-- <h4> 😊 God's silliest programmer. </h4>
-
-### 💻 Software
-
+## 🍳 Things I cook with
 <h4> Development </h4>
 <p>
   <img src="https://img.shields.io/badge/Go-orange?style=for-the-badge&logo=go">
@@ -50,9 +40,3 @@
 
 ### 💬 Socials
 <p><a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-stormyhs-%23ffffff?style=for-the-badge&logo=discord"/></a></p>
-
-<!-- ### 📈 Statistical drip -->
-
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=stormyhs&show_icons=true&theme=transparent"/> -->
-
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stormyhs&theme=transparent"/> -->
