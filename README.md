@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/NODE.JS%20-green.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
   <br/>
   <img src="https://img.shields.io/badge/React%20-teal.svg?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Svelte%20-white.svg?style=for-the-badge&logo=svelte&logoColor=orange"/>
   <img src="https://img.shields.io/badge/EXPRESS.JS%20-orange.svg?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <!--   <br/> -->
